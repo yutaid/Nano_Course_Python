@@ -33,3 +33,4 @@ elif idade >= 60:
         print("Batimentos Normais para a idade fornecida.")
     else:
         print("Batimentos Acima para a idade fornecida.")
+print("Tudo joia")
