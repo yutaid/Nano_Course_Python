@@ -11,5 +11,6 @@ while opcao != 4:
         print("Executando opção 2 ")
     if opcao == 3:
         print("Executando opção 3 ")
-    if opcao == 4:1
+    if opcao == 4:
         print("Saindo do sistema ...")
+    break

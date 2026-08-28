@@ -1,0 +1,16 @@
+print(" ")
+duelistas = ["jett", "raze", "waylay", "neon", "iso", "reyna", "yoru"]
+print(duelistas)
+print(" ")
+print(duelistas[1])
+print(" ")
+print(duelistas)
+print(" ")
+print(duelistas[-1])
+print(" ")
+print(duelistas)
+print(" ")
+print(duelistas[1:3])
+print(" ")
+for nome in duelistas:
+    print(nome)
