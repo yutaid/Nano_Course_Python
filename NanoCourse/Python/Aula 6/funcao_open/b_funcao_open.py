@@ -6,14 +6,19 @@ print(" ")
 
 #verificando o tipo do objeto arquivo
 
-print(arquivo)
+print(type(arquivo))
+print(" ")
 
 #printando o objeto arquivo
 
-print(arquivo.read())
+print(arquivo)
+print(" ")
 
 #printando o conteúdo do objeto arquivo
 
-
+print(arquivo.read())
+print(" ")
 
 #fechando o arquivo
+
+arquivo.close()
